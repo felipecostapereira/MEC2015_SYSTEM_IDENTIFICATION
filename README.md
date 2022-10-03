@@ -24,5 +24,5 @@ Activity 6: 5th code activity (ARMAX) - using sysidentpy (https://sysidentpy.org
 Activity 7: 6th code activity (Grey box models) - using casadi optimal control library (https://web.casadi.org/)
 - Work_07\report_07_Felipe.pdf: pdf report
 - Work_07\results.m: matlab script for plotting responses
-- Work_07\sysid_07_GrayBox_EMPS_Coulomb_Felipe.m: matlab script for parameters estimation plotting responses (Coulomb friction force)
-- Work_07\sysid_07_GrayBox_EMPS_Tustin_Felipe.m: matlab script for parameters estimation plotting responses (Tustin friction force)
+- Work_07\sysid_07_GrayBox_EMPS_Coulomb_Felipe.m: matlab script (Coulomb friction force)
+- Work_07\sysid_07_GrayBox_EMPS_Tustin_Felipe.m: matlab script (Tustin friction force)
