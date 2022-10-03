@@ -15,7 +15,7 @@ Activity 4: 3rd code activity (Recursive Least Squares) - Activity chosen was ac
 - Work_04\SYS_ID_04_RLS_ACT02_Felipe.ipynb: jupyter notebook using Octave
 
 Activity 5: 4th code activity (Continuous time identification) - using contsid toolbox (http://www.contsid.cran.univ-lorraine.fr/)
-- Work_05\SYS_ID_05_Felipe.m: matlab script (executed on matlab onbline)
+- Work_05\SYS_ID_05_Felipe.m: matlab script (executed on matlab online)
 - Work_05\SYS_ID_05_Felipe.pdf: pdf results report
 
 Activity 6: 5th code activity (ARMAX) - using sysidentpy (https://sysidentpy.org/)
