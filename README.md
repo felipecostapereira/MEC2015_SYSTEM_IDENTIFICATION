@@ -29,3 +29,6 @@ Activity 7: 6th code activity (Grey box models) - using casadi optimal control l
 
 Activity 8: 7th code activity (NARMAX) - using sysidentpy (https://sysidentpy.org/)
 - Work_08\SYSID08_NARMAX_FELIPE.ipynb
+
+Activity 9: 8th code activity (Artificial Neural Networks) - using keras
+- Work_09\SYSID09_ANN_Felipe.ipynb
